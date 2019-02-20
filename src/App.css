@@ -29,9 +29,6 @@ header section {
   }
 }
 
-header section .logo {
-  transform: translateX(-87px);
-}
 
 header section a {
   float: right;
